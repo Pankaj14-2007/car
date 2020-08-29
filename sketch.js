@@ -34,6 +34,6 @@ function draw() {
      }
    } 
   }
-  console.log(deformation);
+
   drawSprites();
 }
